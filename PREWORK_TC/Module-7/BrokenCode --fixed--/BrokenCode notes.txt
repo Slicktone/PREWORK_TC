@@ -1,0 +1,19 @@
+HTML Errors
+
+h1 missing in title jumbotron
+href link is not inside of a link quotes therefore link will not work
+<divs> should be indented to be read easier
+no <p> tags to separate the paragraphs (indented them as well)
+no opening and closing brackets for the right hand image
+List did not contain <li> tags
+button colors did not match the proper ids and was missing a closing <div> tag
+source link for the javascript file is wrong
+Div columns we're not in the same order
+
+Javascript Errors
+no comments to distinguish what each function does
+the items in the booFacts array do not have quotations after each item, thus making it one whole item
+#funText color Pink did not have quotations within the function, therefore the function did not run properly
+#boxGrow and #boxShrink ids click functions did not have quotations on the word "click"
+
+CSS looks gud
